@@ -57,3 +57,5 @@ C:\cygwin64\home\Adria\BBDDPATH\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFi
 C:\cygwin64\home\Adria\BBDDPATH\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
 C:\cygwin64\home\Adria\BBDDPATH\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.dll
 C:\cygwin64\home\Adria\BBDDPATH\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\jorge\EnglishFinal\ProyectoFInal\obj\Debug\ProyectoFinal.dll
+C:\Users\jorge\EnglishFinal\ProyectoFInal\obj\Debug\ProyectoFinal.pdb
